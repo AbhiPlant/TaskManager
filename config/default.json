@@ -1,0 +1,10 @@
+{
+    "port" : 3050,
+    "mysql" : {
+        "database" : "todolist",
+        "username" : "root",
+        "password" : "Abhishek2002",
+        "host" : "localhost",
+        "dialect" : "mysql"
+    }
+}
